@@ -1,0 +1,5 @@
+com\bestbuy\model\ProductPojo.class
+com\bestbuy\model\StorePojo.class
+com\bestbuy\utils\PropertyReader.class
+com\bestbuy\utils\TestUtils.class
+com\bestbuy\model\StudentPojo.class
